@@ -174,10 +174,10 @@ export default function Aboutmesections() {
                   <Eye className="w-5 h-5" />
                   View My Work
                 </button>
-               <a href={Resume} download={Resume}> <button type='download' className="border-2 border-gray-300 text-gray-700 px-8 py-3 rounded-lg hover:border-teal-500 hover:text-teal-500 transition-colors flex items-center gap-2">
+               {/* <a href={Resume} download={Resume}> <button type='download' className="border-2 border-gray-300 text-gray-700 px-8 py-3 rounded-lg hover:border-teal-500 hover:text-teal-500 transition-colors flex items-center gap-2">
                   <Download className="w-5 h-5" />
                   Download CV
-                </button></a>
+                </button></a> */}
               </div>
             </div>
           </div>
