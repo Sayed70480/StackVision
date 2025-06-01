@@ -32,7 +32,7 @@ import {
   Building,
   FileText
 } from 'lucide-react';
-import Resume from "./Resume.pdf"
+// import Resume from "./Resume.pdf"
 export default function Aboutmesections() {
   const skills = [
     { name: 'React.js & Next.js', level: 95, icon: <Code className="w-5 h-5" /> },
