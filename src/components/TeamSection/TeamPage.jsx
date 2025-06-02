@@ -50,7 +50,7 @@ const TeamPage = () => {
       name: "Atif Khan",
       position: "Frontend Developer (React)",
       department: "Development",
-      image: "images/atif-profile.jpg",
+      image: "/atif-profile.jpg",
       bio: "React specialist focused on creating seamless user interfaces and exceptional user experiences. Expert in modern frontend technologies and responsive design.",
       linkedin: "www.linkedin.com/in/aatif-khan-software-engineer/",
       github: "github.com/atifkhan",
