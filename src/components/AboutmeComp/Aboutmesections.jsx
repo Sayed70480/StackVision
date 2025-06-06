@@ -145,7 +145,7 @@ export default function Aboutmesections() {
             <div className="lg:w-1/2">
               <div className="relative">
                 <div className="w-80 h-80 mx-auto bg-gradient-to-br from-teal-400 to-teal-600 rounded-2xl flex items-center justify-center shadow-2xl">
-               <img src="images/profile.jpg " alt="" className='rounded-2xl w-75 h-75' />
+               <img src="/images/profile.jpg " alt="" className='rounded-2xl w-75 h-75' />
                 </div>
                 <div className="absolute -bottom-4 -right-4 bg-white rounded-full p-4 shadow-lg border-4 border-teal-100">
                   <Code className="w-8 h-8 text-teal-600" />
